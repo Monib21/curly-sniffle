@@ -5,4 +5,4 @@ Just another reposiory
 
 Hi Humans!
 
-Monib21 here, I like Node. Js and coffescript (tht's wht. I'amade of!). I've had tacos on the moon and find them far superior to Earth Tacos.
+Monib21 here, I like Node. Js and coffescript (that's what. I'a made of!). I've had tacos on the moon and find them far superior to Earth Tacos.
